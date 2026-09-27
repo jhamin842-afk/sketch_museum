@@ -1,0 +1,11 @@
+{
+  "name":"우리 반 디지털 미술관",
+  "short_name":"디지털 미술관",
+  "start_url":"./index.html",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#111111",
+  "theme_color":"#111111",
+  "orientation":"landscape",
+  "icons":[{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
